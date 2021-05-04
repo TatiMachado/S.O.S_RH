@@ -5,8 +5,9 @@ A partir do conhecimento adquirido no curso da DIO - Bootscamp .Net Fundamentals
 
 
 ## MENU PARA EMPRESAS
-![kkkk]<img src="https://github.com/TatiMachado/S.O.S_RH/tree/master/S.O.S_RH/imagens/menu-empresa.png">
+<img src="/S.O.S_RH/imagens/menu-empresa.png">
+
 
 
 ## MENU PARA CANDIDATOS
-![]<img src="https://github.com/TatiMachado/S.O.S_RH/tree/master/S.O.S_RH/imagens/menu-candidato.png">
+<img src="/S.O.S_RH/imagens/menu-candidato.png">
